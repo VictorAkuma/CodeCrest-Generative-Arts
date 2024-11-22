@@ -17,7 +17,7 @@ The process of creating CodeCrest designs involves a blend of programming using 
 
 ### 1. Conceptualizing the Design  
 - Start by brainstorming a design idea using mathematical concepts.  
-- Translate the idea into a programmable format that can be rendered visually using programming languages such as P5.js, JavaScript, or Processing.  
+- Translate the idea into a programmable format that can be rendered visually using programming languages such as P5.js, JavaScript, or Processing.
 
 ### 2. Writing the Code  
 - Write lines of code to create generative or algorithmic art. For instance, use JavaScript frameworks like p5.js.  
@@ -44,7 +44,7 @@ The process of creating CodeCrest designs involves a blend of programming using 
 
 ---
 
-## Getting Involved  
+## Getting Involved
 Want to bring your ideas to life through code? Here's how you can collaborate with CodeCrest:  
 - Submit a custom design request through our website [in view].  
 - Explore our ready-made collections in the shop section.  
